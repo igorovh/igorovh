@@ -19,9 +19,10 @@
 ### Projects
 - [Twitch Enhancer](https://github.com/igorovh/twitch-enhancer) - enhances your viewer experience on Twitch.tv.
 - [streamplus](https://github.com/igorovh/streamplus) - allows you to watch videos from YouTube, TikTok, Streamable with your viewers on external page.
-- [kick-chat](https://github.com/igorovh/kick-chat) - Kick.com chat wrapper written in TypeScript.
+- [kick-chat](https://github.com/igorovh/kick-chat) - Kick.com chat wrapper written in TypeScript.  
 - [show-emote](https://github.com/igorovh/show-emote) - !showemote command for Twitch.tv and Kick.com.
 - [tts](https://github.com/igorovh/tts) - !tts (text-to-speech) command for Twitch.tv and Kick.com.
+- [poll](https://github.com/igorovh/poll) - Poll manager system for Twitch.tv and Kick.com.
 <br /><br />  
 ![igorovh's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorovh&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorovh&layout=compact&theme=radical)
