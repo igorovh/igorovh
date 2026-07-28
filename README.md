@@ -7,8 +7,8 @@ currently focused on developing **[Enhancer](https://github.com/enhancer-app/enh
 
 <br />
 
-![](https://raw.githubusercontent.com/igorovh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/igorovh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/igorovh/github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/igorovh/github-stats/generated/languages.svg#gh-dark-mode-only)
 
 <br />
 
